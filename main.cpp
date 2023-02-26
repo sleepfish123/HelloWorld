@@ -7,6 +7,7 @@ using namespace std;
 int sort(int arr[], int size) {
     // 排序算法
     cout << "paixu" << size << endl;
+    cout << "排序" << endl;
 }
 
 int main() {
